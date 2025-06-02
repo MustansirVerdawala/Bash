@@ -1,4 +1,3 @@
-```markdown
 # 🖥️ Terminal Customization with Bash
 
 
